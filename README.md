@@ -14,7 +14,7 @@ A RESTful API built with Flask for managing vehicle information. This service al
 
 ## Prerequisites
 Before running the application, ensure you have the following installed:
-- Python 3.7 or higher
+- Python 
 - `pip` 
 
 ---
@@ -26,7 +26,7 @@ Before running the application, ensure you have the following installed:
    cd <repository-folder>
    ```
 
-2. **Set up a virtual environment** (optional but recommended):
+2. **Set up a virtual environment**:
   pipenv shell
   pipenv install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy
 
