@@ -27,8 +27,11 @@ Before running the application, ensure you have the following installed:
    ```
 
 2. **Set up a virtual environment**:
-  pipenv shell
-  pipenv install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy
+   ```bash
+   pipenv shell
+   pipenv install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy
+   ```
+
 
 ---
 
