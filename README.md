@@ -1,6 +1,6 @@
 # CRUD--Style-API
 
-A RESTful API built with Flask for managing vehicle information. This service allows users to create, retrieve, update, and delete vehicle records in a SQLite database. It uses Flask, SQLAlchemy for ORM, and Marshmallow for data serialization and validation.
+A CRUD Style API built with Flask for managing vehicle information. This service allows users to create, retrieve, update, and delete vehicle records in a SQLite database. It uses Flask, SQLAlchemy for ORM, and Marshmallow for data serialization and validation.
 
 ---
 
