@@ -44,7 +44,9 @@ You can either start the server and send the request to http://127.0.0.1:5000/ o
    ```
 
 2. **Run the Test File**:
+   ```bash
    python test.py
+   ```
 
 ---
 
